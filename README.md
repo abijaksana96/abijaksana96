@@ -52,5 +52,5 @@ Hi, I'm Tasdik! I love seeing how data can be transformed into working applicati
 
 <div align="center">
   <a href="https://linkedin.com/in/a-tasdik-bijaksana" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="abijaksana96.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
+  <a href="https://abijaksana96.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
 </div>

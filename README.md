@@ -44,9 +44,14 @@ Hi, I'm Tasdik! I love seeing how data can be transformed into working applicati
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abijaksana96&theme=tokyonight)
 
-<!-- Snake Game Animation -->
-![Snake animation](https://github.com/abijaksana96/abijaksana96/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+---
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 

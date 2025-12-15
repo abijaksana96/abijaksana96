@@ -48,13 +48,6 @@ Hi, I'm Tasdik! I love seeing how data can be transformed into working applicati
 
 ---
 
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### ☎️ Contacs
 
 <div align="center">
